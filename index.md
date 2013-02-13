@@ -11,7 +11,7 @@ It was designed to do test-driven development on a wide variety of platforms. Si
 * Linux
 * Mac OS X
 
-UnitTest++ was originally written by Noel Llopis and Charles Richardson, and hosted on SourceForge. It is in the process of being migrated to GitHub, with the [official repository here.] (https://github.com/charlesnicholson/unittest-cpp)
+UnitTest++ was originally written by Noel Llopis and Charles Nicholson, and hosted on SourceForge. It is in the process of being migrated to GitHub, with the [official repository here.] (https://github.com/unittest-cpp/unittest-cpp)
 
 <ul class="posts">
   {% for post in site.posts %}
