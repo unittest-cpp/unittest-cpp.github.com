@@ -38,3 +38,5 @@ Once 1.5.0 is lying flat, our near-term goals will be as follows:
 ### What *isn't* around the bend
 
 Lest you be be concerned, rest assured that the core functionality of UnitTest++ will always remain light-weight and simple (as long as I have any say in the matter). The goals of simplicity, portability, speed, and small footprint remain the charter of this test framework.
+
+`~-- pj --~`
