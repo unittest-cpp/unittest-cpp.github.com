@@ -5,7 +5,6 @@ description: ""
 category:
 tags: [v1.6]
 ---
-{% include JB/setup %}
 
 The April* release of UnitTest++ is complete. The only changes were to CMake and autotools
 files, so there's not much to write about. The full list of [issues and pull requests are

@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: [v1.5]
 ---
-{% include JB/setup %}
 
 The last few months have been a busy time for me as I have been in the process of changing day jobs. Now that things are settled down, I am finally getting around to wrapping up UnitTest++ version 1.5. Here is a quick update:
 

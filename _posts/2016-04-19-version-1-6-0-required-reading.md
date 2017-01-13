@@ -5,7 +5,6 @@ description: ""
 category:
 tags: [v1.6]
 ---
-{% include JB/setup %}
 
 At the end of February, I tagged version 1.6.0 of UnitTest++. You can see
 [everything this release included here] [1]. I also posted my intent to create a blog post

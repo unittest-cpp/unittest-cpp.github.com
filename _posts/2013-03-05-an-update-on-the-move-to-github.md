@@ -5,7 +5,6 @@ description: ""
 category: ""
 tags: [github-migration, v1.4, v1.5]
 ---
-{% include JB/setup %}
 
 ### First, an introduction
 

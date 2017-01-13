@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: [v1.5]
 ---
-{% include JB/setup %}
 
 This site has gone a long, long time without an update -- longer than I even thought. As
 promised in [the announcement of version 1.5] [announcement], though, I'd like to publish a
